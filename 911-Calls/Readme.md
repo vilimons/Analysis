@@ -41,12 +41,12 @@ Then we create a plot that counts 911 calls. With this plot, we can notice here 
 Now let's move on to creating heatmaps with seaborn and our data. We'll first need to restructure the dataframe so that the columns become the Hours and the Index becomes the Day of the Week.<br>
 The heatmap show us that the calls tend to occurs during daytime. What's interesting is that not too many calls occurs on Sundays and Saturdays.
 <br>
-<br>
-The first plot show us how many calls occurred during the week, indicated by the ##### x Axis. The counting is indicated by the ##### Y Axis. The bars has three colors, each one indicating the reason of the call.
-![plot1](https://github.com/vilimons/Analysis/assets/48607584/8ef611c1-b173-4db7-8ffa-43917c5a6743)
+The first plot show us how many calls occurred during the week, indicated by the X Axis. The counting is indicated by the Y Axis. The bars has three colors, each one indicating the reason of the call.
 <br>
 The second plot show us whah time of the day has more calls occurring. The lighter the color is, more calls occurs. 
+![plot1](https://github.com/vilimons/Analysis/assets/48607584/8ef611c1-b173-4db7-8ffa-43917c5a6743)
 ![plot2](https://github.com/vilimons/Analysis/assets/48607584/c6b61a76-41aa-46ed-9efe-445d3615667b)
+
 
 
 ## Conclusion
